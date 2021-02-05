@@ -1,0 +1,14 @@
+# Object files
+*.o
+
+# Executable
+*.exe
+
+# Sources
+.metadata
+
+# Others files
+*.xml
+.cproject
+.project
+.settings
